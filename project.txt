@@ -1,0 +1,2 @@
+This is reposotory for CS M117 project which is Tic Tac Toe game. 
+The game will be played via Bluetoth between two cellphones.
